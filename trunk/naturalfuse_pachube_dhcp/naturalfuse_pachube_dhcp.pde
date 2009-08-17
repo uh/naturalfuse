@@ -1,3 +1,7 @@
+// revised august 16, 2009
+// reminder to download DHCP library from
+// 
+
 #include <Ethernet.h>
 #include "Dhcp.h"
 
